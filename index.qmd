@@ -1,7 +1,8 @@
 ---
-title: "Yao Hao's Personal Website"
+title: "Hello! I am Yao Hao!"
 format: html
 ---
+### A little self-introduction about myself!
 
 I am currently a Applied Computing undergraduate with a specialisation in Fintech at the Singapore Institute of Technology, I have developed a passion for leveraging technology to drive innovation in the financial sector. My journey began during my polytechnic years, and I had the privilege of implementing classroom knowledge into real-world impact during my internship at The FinLab. It was a transformative experience witnessing how technology can enhance efficiency and bring benefits to the industry.
 
@@ -9,7 +10,7 @@ My academic journey equipped me with a diverse skill set such as Python, C, C#, 
 
 During my free time, I spend valuable moments with family and friends through games and outdoor activities like playing basketball, hiking and running. These experiences not only create lasting memories but also strengthen bonds with loved ones, ensuring no regrets.
 
-!['A picture of me!'](images/gopro.jpg){fig-align="center"}
+!['A picture of me recently at Hainan while travelling with my family!'](images/gopro.jpg){fig-align="center"}
 
 My LinkedIn Profile <https://www.linkedin.com/in/koh-yao-hao/>.
 

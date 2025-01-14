@@ -1,0 +1,18 @@
+---
+title: "Travel Blog"
+format:
+  html:
+    embed-resources: true
+---
+Recently I have been to Thailand and China (Hainan). I went to Phuket, Thailand for a short getaway with my friends during school holidays! We had been planning to go on a trip together for a very long time and it is a trip created from a group! After returning from Phuket, it was time for a trip to Hainan, China with my family and relatives! It was a great experience to travel with my family and relatives as we had a lot of fun together!
+
+Here are some pictures of my trip.
+
+## Thailand - Phuket
+
+![ZipLine Activities.](images/phuketzipline.jpg){fig-align="center"}
+
+## China - Hainan
+
+![The scenic stone cave of Hainan.](images/stone_Cave.jpg){fig-align="center"}
+![The top of Volcano mountain in Hainan.](images/climbmountain.jpg){fig-align="center"}

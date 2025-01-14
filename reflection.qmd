@@ -1,0 +1,8 @@
+---
+title: "My reflection on Lab 1 Assessment"
+format: html
+---
+
+## Reflection on Lab 1 Assessment
+
+It is Week 2 of the semester and i am learning R programming for the first time. I have never used R before and it is a new experience for me. I have been learning the basics of R programming and how to use RStudio. I have also been learning how to use R Markdown to create documents that combine R code and text. I have been enjoying the process of learning R programming and I am excited to learn more as I practice. I used Co-Pilot & ChatGPT in helping me with understanding various syntax meaning and how i can apply the markdown at appropriate places. It is very beneficial for me as a beginner in R programming as it provides all the basic coding syntax and example that i need to know. At the same time, i think it can be challenging as I do not know everything about R and can be hard at times to ask ChatGPT about it. Furthermore, ChatGPT might not be able to understand my question and provide me with the correct answer. I will continue to practice and learn R programming as I am excited to see how it can help me with Data Visualisation in future!
