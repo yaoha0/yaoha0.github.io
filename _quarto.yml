@@ -5,7 +5,8 @@ project:
 website:
   title: "temp_website"
   navbar:
-    left:
+    logo: deepart.png
+    left: 
       - href: index.qmd
         text: Home
       - about.qmd
@@ -17,6 +18,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
