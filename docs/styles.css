@@ -64,6 +64,25 @@ section {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* TOC (Side Box) Styles */
+div.toc {
+    background: none; /* Removes background color */
+    border: none; /* Removes any border if it exists */
+    color: inherit; /* Ensures the text color matches the surrounding area */
+    padding: 0; /* Optional: Adjust padding if needed */
+}
+
+/* Ensure text links are styled consistently */
+div.toc a {
+    color: #004080; /* Matches the theme color for links */
+    text-decoration: none; /* Optional: Removes underlines from links */
+}
+
+div.toc a:hover {
+    text-decoration: underline; /* Optional: Adds underline on hover for clarity */
+}
+
+
 /* About Page */
 #about h2 {
     color: #004080;
