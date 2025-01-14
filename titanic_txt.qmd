@@ -2,7 +2,7 @@
 title: School Lab research on *Titanic*
 author: Yao Hao
 
-format: 
+format:
   html:
     embed-resources: true
 ---

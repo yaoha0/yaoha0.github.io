@@ -1,6 +1,8 @@
 ---
 title: "My reflection on Lab 1 Assessment"
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 
 ## Reflection on Lab 1 Assessment

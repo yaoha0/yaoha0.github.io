@@ -1,6 +1,8 @@
 ---
 title: "Hello! I am Yao Hao!"
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 **A little self-introduction about myself!**
 
