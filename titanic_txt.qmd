@@ -1,5 +1,5 @@
 ---
-title: Plain Text Version of the *Titanic*
+title: School Lab research on *Titanic*
 author: Yao Hao
 
 format: 

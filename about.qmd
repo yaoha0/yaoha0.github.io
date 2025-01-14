@@ -13,3 +13,4 @@ Recently I have been to Thailand and China (Hainan). Here are some pictures of m
 ## China - Hainan
 
 ![The scenic stone cave of Hainan.](images/stone_Cave.jpg){fig-align="center"}
+![The top of Volcano mountain in Hainan.](images/climbmountain.jpg){fig-align="center"}
