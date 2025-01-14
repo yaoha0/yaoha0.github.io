@@ -4,7 +4,6 @@ format:
   html:
     embed-resources: true
 ---
-
 Recently I have been to Thailand and China (Hainan). Here are some pictures of my trip.
 
 ## Thailand - Phuket

@@ -9,8 +9,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Travel Blog",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Recently I have been to Thailand and China (Hainan). Here are some pictures of my trip."
+  },
+  {
+    "objectID": "about.html#thailand---phuket",
+    "href": "about.html#thailand---phuket",
+    "title": "Travel Blog",
+    "section": "Thailand - Phuket",
+    "text": "Thailand - Phuket\n\n\n\nZipLine Activities."
+  },
+  {
+    "objectID": "about.html#china---hainan",
+    "href": "about.html#china---hainan",
+    "title": "Travel Blog",
+    "section": "China - Hainan",
+    "text": "China - Hainan\n\n\n\nThe scenic stone cave of Hainan."
   }
 ]
