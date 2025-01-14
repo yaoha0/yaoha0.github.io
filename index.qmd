@@ -2,7 +2,7 @@
 title: "Hello! I am Yao Hao!"
 format: html
 ---
-### A little self-introduction about myself!
+**A little self-introduction about myself!**
 
 I am currently a Applied Computing undergraduate with a specialisation in Fintech at the Singapore Institute of Technology, I have developed a passion for leveraging technology to drive innovation in the financial sector. My journey began during my polytechnic years, and I had the privilege of implementing classroom knowledge into real-world impact during my internship at The FinLab. It was a transformative experience witnessing how technology can enhance efficiency and bring benefits to the industry.
 
