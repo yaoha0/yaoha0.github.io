@@ -1,9 +1,16 @@
 ---
-title: "About"
+title: "Travel Blog"
+format:
+  html:
+    embed-resources: true
 ---
 
-About this site
+Recently I have been to Thailand and China (Hainan). Here are some pictures of my trip.
 
-```{r}
-1 + 1
-```
+## Thailand - Phuket
+
+![ZipLine Activities.](images/phuketzipline.jpg){fig-align="center"}
+
+## China - Hainan
+
+![The scenic stone cave of Hainan.](images/stone_Cave.jpg){fig-align="center"}

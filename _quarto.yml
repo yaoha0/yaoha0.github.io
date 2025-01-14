@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Yao Hao's Personal Website"
   navbar:
-    logo: deepart.png
+    logo: images/mepic.jfif
     left: 
       - href: index.qmd
         text: Home
       - about.qmd
+      - titanic_txt.qmd
+      
 
 format:
   html:
