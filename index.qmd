@@ -13,6 +13,7 @@ My academic journey equipped me with a diverse skill set such as Python, C, C#, 
 During my free time, I spend valuable moments with family and friends through games and outdoor activities like playing basketball, hiking and running. These experiences not only create lasting memories but also strengthen bonds with loved ones, ensuring no regrets.
 
 !['A picture of me recently at Hainan while travelling with my family!'](images/gopro.jpg){fig-align="center" style="width:50%;"}
+{{< video https://www.youtube.com/watch?v=_Yq03jSP0IM&t=4s width="600" height="400" >}}
 
 My LinkedIn Profile <https://www.linkedin.com/in/koh-yao-hao/>.
 
